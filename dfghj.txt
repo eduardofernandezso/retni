@@ -1,0 +1,3 @@
+geo fix 34.609654 -58.390100
+geo fix -34.637792 -58.354460
+https://github.com/eduardofernandezso/retni.git
